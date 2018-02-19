@@ -130,54 +130,53 @@ ruins with a chest with a *Serpentine Spear*, N to next Phantom armor
 piece, N to next phantom armor piece, grab *Big Hearty Radish* and N a
 bit to grab a *Endura Shroom*, ride north to activate Katah Chuki
 
-run towards castle in the West Passage, *Luminous Stone Deposit*, get
-Diamond from Chest, Bomb wall, *Frost Pebblit*, box flying machine to
+run towards castle in the West Passage, grab shock arrows under slab left,
+**Luminous Stone Deposit**, get
+Diamond from Chest, Bomb wall, **Frost Pebblit**, box flying machine to
 the 5 ancient arrow chest on top of hyrule castle, get them, glide down
-to zeldas study bridge, E side with *Black Moblin*, kill it for *Edge of
-Duality* and get the *Royal Guard‘s Bow*, out again and enter the castle
+to zeldas study bridge, E side with **Black Moblin**, shock it for
+**Edge of Duality** and get the **Royal Guard‘s Bow**, out again and enter the castle
 from the entrance below the left side of zelda‘s study tower, drop down
-left, sneak strike Moblin with *Royal Guard‘s Spear*, left, right to the
-prison, bomb wall, kill *Black Lizalfos* and Moblin for *Dragonbone
-Moblin Spear* and *Dragonbone Moblin Club*, left to *Stalnox*, kill it
-for the *Hylian Shield*, *Royal Broadsword*, *Royal Spear*, *Great
-Thunderblade*
+left, sneak strike Moblin with **Royal Guard‘s Spear**, left, right to the
+prison, bomb wall, kill **Black Lizalfos** and Moblin for
+**Dragonbone Moblin Spear** and **Dragonbone Moblin Club**, left to **Stalnox**, kill it
+for the **Hylian Shield**, **Royal Broadsword**, **Royal Spear**, **Great Thunderblade**
 
-back left, *Electric Lizalfos* and *Fire-Breath Lizalfos* in right
-cells, *Royal Guard‘s Claymore* in right last prison cell, out, diamond
-chest left in water, into docks, grab *Great Flameblade*, sneak strike
-Lizalfos, glide down to sneak strike next one, grab shock arrows, *Steel
-Lizal Bow*, go up, *Keese*, open Shrine with burning arrow, go in, fight
-*Guardian Scout IV*, *Guardian Sword++*, *Ancient Battle Axe++*,
-*Guardian Spear++*, grab stuff it dropped, exit
+back left, **Electric Lizalfos** and **Fire-Breath Lizalfos** in right
+cells, **Royal Guard‘s Claymore** in right last prison cell, out, diamond
+chest left in water, into docks, grab **Great Flameblade**, sneak strike
+Lizalfos, glide down to sneak strike next one, grab shock arrows,
+**Steel Lizal Bow**, go up, **Keese**, open Shrine with burning arrow, go in, fight
+**Guardian Scout IV**, **Guardian Sword++**, **Ancient Battle Axe++**,
+**Guardian Spear++**, grab stuff it dropped, exit
 
 drop down and sneak strike last lizalfos, more electric arrows, cryo for
-wooden chest, destroy it for *Ancient Arrow*, magnesis up chest for star
+wooden chest, destroy it for **Ancient Arrow**, magnesis up chest for star
 fragment, magnesis other chest for 300R, wooden chest with shock arrows,
 go up again, follow path, magnesis bookshelf out of the way, kill
-lizalfos for *Lizal-Tri Boomerang*, and *Steel Lizal Shield*, straight
-behind bookshelf, *Stone Smasher* and 100R, right to kings study for
-rupee chest, left for lizalfos with *Forked Lizal Spear*, climb up left,
+lizalfos for **Lizal-Tri Boomerang**, and **Steel Lizal Shield**, straight
+behind bookshelf, **Stone Smasher** and 100R, right to kings study for
+rupee chest, left for lizalfos with **Forked Lizal Spear**, climb up left,
 right, *Great Frostblade* on the left side, distract lizalfos with bomb
 and sneak strike it, bomb arrows, left . . . through the door, kill
-moblin with *Royal Claymore*, *Rusty Shield*, *Rusty Broadsword*, *Rusty
-Halberd*, *Rusty Claymore*, *Royal Guard‘s Shield*, *Soldier‘s
-Claymore*, wooden boxes for arrows, climb up, follow path, left, destroy
+moblin with **Royal Claymore**, **Rusty Shield**, **Rusty Broadsword**,
+**Rusty Halberd**, **Rusty Claymore**, **Royal Guard‘s Shield**,
+**Soldier‘s Claymore**, wooden boxes for arrows, climb up, follow path, left, destroy
 wall for Royal Guard‘s Broadsword
 
-back right, get *Hearty Truffle* and *Big Hearty Truffle* in dinner
+back right, get **Hearty Truffle** and **Big Hearty Truffle** in dinner
 hall, back in, left, follow path, ignore moblins, shoot eye,
-*Thunderblade*, ancient arrow chest, arrows, *Royal Bow*, drop down
+**Thunderblade**, ancient arrow chest, arrows, **Royal Bow**, drop down
 right and reenter HC, follow the path until lizalfos, left down, bomb
-wall for more ancient arrows, right *Knight‘s Claymore* down right, run
-back to the lizalfos, left, right, shoot eye, left, shoot eye, *Knight‘s
-Broadsword* and ancient arrow chest on the right side, go up left side
-and north, go up to the slab so the guardian isn‘t annoying
+wall for more ancient arrows, right **Knight‘s Claymore** down right, run
+back to the lizalfos, left, right, shoot eye, left, shoot eye,
+**Knight‘s Broadsword** and ancient arrow chest on the right side, go up left side
+**Guardian Turret**, and north, go up to the slab so the guardian isn‘t annoying
 
-launch to lost woods, *Stealthfin Trout* in lake surrounding LW, launch
-from W into LW, void out into it, *Master Sword*, go NE to *Forest
-Dweller‘s Shield* and *Forest Dweller‘s Spear*, then to test of wood
-accept and selfie *Forest Dweller‘s Bow*, *Forest Dweller‘s Sword*, give
-up
+launch to lost woods, **Stealthfin Trout** in lake surrounding LW, launch
+from W into LW, void out into it, **Tree Branch** on the way to **Master Sword**, go NE to
+**Forest Dweller‘s Shield** and **Forest Dweller‘s Spear**, then to test of wood
+**Forest Dweller‘s Bow**, **Forest Dweller‘s Sword** behind koroks
 
 TP to Katah Chuki, ride to Tabantha Stable, *Rainbow Pigeon* on the way,
 *Wild Berry*, *Spicy Pepper*, *Soldier‘s Broadsword*, *White Goat*, buy
