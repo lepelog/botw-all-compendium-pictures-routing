@@ -48,6 +48,7 @@ Best Way to farm:
 -   Guardian Stalkers and Guardian Skywatchers near Hyrule Castle
 -   Guardians at Miphas EX challenge
 -   TOS+ on Plat 2
+-   Farosh (also for speedfood)
 
 ROUTE(wip):
 
@@ -274,7 +275,7 @@ dropped, exit
 
 NW to *Meteo Wizzrobe*, *Meteo Rod*, W to *Ice Wizzrobe*, *Ice Rod*, E
 to Stalkoblin with *Dragon Bone Boko Bow*, more E to *Electric
-Wizzrobe*, *Lightning Rod*, *Stone Pebblit*, hope that horsey is here,
+Wizzrobe*, *Stone Pebblit*, hope that horsey is here,
 SE not over the bridge until swamp, kill lizalfos with *Boomerang*, go
 over lizal camp, avoid zora cutscene trigger, NE to camp with *Throwing
 Spear*, N to Foothill Stable, activate Mo‘a Keet, *Double Axe*, buy
@@ -329,14 +330,33 @@ more E, talk to „Traveler“ near Lanayru Road – West Gate, select bottom
 option, kill Yiga for *Deamon Carver*, climb hill E for *Golden
 Sparrow*, *Islander Hawk*, down NE to a pond with a *Mighty Carp*
 
-warp to SoR to begin champions balad, *Obliterator*, strats as always,
-but get *Black Bokoblin*, *Silver Bokoblin*, *Silver Moblin* and *Silver
-Lizalfos*, one bokoblin has a *Korok Leaf*, in the Major+ TOS get all
-the ancient amterials from the guardians, *Guardian Scout IV*, *Guardian
-Shield++*, *Guardian Spear++*, *Ancient Battle Axe++*, *Guardian Scout
-I*, *Guardian Scout III*, *Guardian Shield*, *Guardian Spear*, there is
-also a Giant Ancient Core in a chest, key, *Guardian Scout II*, *Ancient
-Battle Axe*, *Guardian Shield+*, *Guardian Sword+*
+
+warp to SoR for champions ballad, **One-Hit Obliterator**, glide down,
+shoot arrow to keese, kill boko with obliterator, kill 3 blue bokos down with arrows,
+climb up to a **Silver Bokoblin**, kill with Obliterator, shock arrows,
+make sure Obliterator is charged jump down, arrow kill 2 bokos, kill **Black Bokoblin**
+with obliterator, **Lightning Rod**, chest with bomb arrows, to shrine, do shrine
+
+warp to Plateau tower, glide down to lizal camp, obliteratorshockwave the 3,
+**Silver Lizalfos** before it disappears, **Flameblade**, snipe south lizalfos,
+obliterate near lizalfos, snipe reamaining two,to shrine, do shrine
+
+warp to Cryonis, warm doublet, to moblin camp, **Blizzrobe**, **Silver Moblin**,
+kill Blizzrobe with fire arrow, obliteratorshockwave Moblins, chest with ice arrows,
+**Traveler's Spear**, **Blizzard Rod**, kill **Ice-Breath Lizalfos** with fire arrows, kill Moblin with
+Obliterator, surf to shrine, do shrine (and don't die pls)
+
+surf down to next camp, kill fire breath lizalfos with ice arrows, freeze moblin,
+shoot lizalfos, shoot boko riders, shoot bokos with Korok leafs, grab 10 arrow chest,
+to shrine,
+
+go in, freeze Guardian Scout, kill it for **Guardian Shield ++**, get
+Battle Axe ++ and the ancient stuff, bomb arrows in chest,
+down **Guardian Scout II**, kill the one with **Guardian Spear** and **Guardian Shield**,
+chest with giant ancient core around there, key, open door, shoot **Guardian Scout I**,
+and the one to the right, kill left with Obliterator for **Ancient Battle Axe**
+up to **Guardian Scout III** with **Guardian Sword +** and **Guardian Shield**,
+careful that it doesn't fall down, GG
 
 notes: etsu korima, dark shrine 300 rupees?, kee dafunia frostblade?,
 sato koda giant ancient core, kamia omuna diamond? Kihiro moh
