@@ -85,7 +85,7 @@ grab **Torch**, outside **Hightail Lizard**, **Eightfold Blade**,
 **Shield of the Mind‘s Eye**, **Traveler‘s Bow**, **Soldier‘s Bow**
 
 treelaunch NE into snow, **Naydra**, shieldsurf down to woods, **Rushroom**
-on mountain, **Silent Shroom** in the woods, **Hylian Shroom**, 2 **Hearty Radish**
+on mountain, in woods, **Hylian Shroom**, grab 2 **Hearty Radish**, **Silent Shroom**
 pick up at least 3 Sunshrooms, W **Stamella Shroom**,
 
 **Armored Carp** in lake, **Bright-Chested Duck**, **Korok Leaf** behind fence
@@ -267,7 +267,7 @@ buy **Smotherwing Butterfly** from Beedle, make night at stable, ride N,
 in the little place on the left side, **Mountain Buck**, **Mountain Doe**,
 **Honeyvore Bear**, turn around, follow road again, stop with horse at
 first stump with **Fire Wizzrobe**, kill for **Fire Rod**, **Fire Chuchu**,
-ride more N, run SW over hill to southest stump, W to **Thunder Wizzrobe**, but don't kill it, **Electric Chuchu**,
+ride more N, stalkoblin with **Dragon Bone Boko Bow**, run SW over hill to southest stump, W to **Thunder Wizzrobe**, but don't kill it, **Electric Chuchu**,
 NE to **Stalmoblin**, **Moblin Arm**, **Spiked Moblin Club**, NE to
 Namika Ozz, **Guardian Spear+** and **Ancient Batte Axe+**, grab stuff it
 dropped, exit
@@ -346,24 +346,24 @@ thunderspear?
 general route idea (TODO):
 goron pillars, FM to Magmarok, akkala kilton, warp back to shrine, all of gerudo, refight,
 
-warp to Vah Ruta, rock launch to pillars, listen, NE to trees,
-**Hyrule Herb** and Radish, tree carry NE, when it lands right launch NW to
-southest Tingle island, **Water Octorok**, make it morning, treelaunch to
-shrinering, do shrine
+warp to Goron City (Shae Mo'sah), up to minecart, bomb over to other, flying machine to eldin pillars,
+flying machine to **Igneo Talus Titan**, stun with ice arrow, kill with Boulder Breaker,
+activate shrine, make night, fly to kilton in skull lake, talk,
+fly E to Lynel in the woods with a **Mighty Lynel Sword**, **Mighty Lynel Shield**, grab bow,
+N to Lynel with **Mighty Lynel Spear**, E to flame, short trip to monster camp for
+**Spiked Moblin Spear**, **Dragonbone Boko Shield**, killl a moblin for something that
+can carry the flame, throw it down with flame, arrow shooting, carrying to akkala ancient techlab,
+buy as much as you can (shield is nice), treelaunch S to stable with **Donkey**, **Highland Sheep**,
+get horse, ride S and hope for a yiga blademaster with a **Windcleaver**
 
-warp to zoras domain (Ne‘ez Yohma), drop down left, up waterfall, follow
-path follow rings to shrine, grab electric arrows there, do shrine, beat
-up the lynel on to of the mountain for **Lynel Bow**, **Lynel Sword** and **Lynel Shield**,
-tree launch NEE, **Lizalfos** with **Lizal Boomerang** and **Lizal Shield**
-there, up hill and kill all the guardians here with ancient arrows, grab
-their stuff, **Blue Moblin** with **Moblin Club** next to shrine, do shrine, make sunny day,
-drop SW for **Common Sparrow**
+\[TODO: test if this can be done after akkala+miphas\]
 
-warp to ruta eat attack up, refight
+Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
+ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
+**Savage Lynel Bow**, **Lynel Spear**, ride more S to next Lynel w/ **Lynel Crusher**
 
-warp to Naboris, launch with rock from E korok puzzle to pillars,
-another rocklaunch with korok rock, drop down to **Molduking**,
-tripleurbosa and shock arrow shot, go to shrine, do shrine
+warp to Naboris, launch with rock to pillars, surf down to wooden box, launch to **Molduking**,
+bomb, tripleurbosa and shock arrow shot, go to shrine, do shrine
 
 warp to gerudo town (Daqo Chisay) make night, equip gerudo clothes, buy
 sand seal, to kiltons montershop, **Traveler‘s Claymore** on statue
@@ -372,14 +372,34 @@ surf through the rings, do shrine
 
 bomb sand seal, surf right to **Molduga**
 
-warp to Sho Dantu (Two Bombs), run to the backdoor of the yigas grab
+warp to Sho Dantu (Two Bombs), run gale run to the backdoor of the yigas grab
 ball and run out, stasis and shoot into hole, shrine
+
+warp to Daqa Koh, run and glide to shrine quest, fly from the place where the shrine
+spawns down, gale onto metal box, step in lava after cutscene, do shrine
+
+warp to Rudania, fire potion, fly and 1xgale through rings, gg, do shrine
+(0 gales left)
 
 warp to naboris eat attack up, refight
 
+warp to Vah Ruta, speed up, rock launch to pillars, listen, NE to trees,
+**Hyrule Herb** and Radish, tree carry NE, when it lands right launch NW to
+southest Tingle island, **Water Octorok**, make it morning, treelaunch to
+shrinering, do shrine
+
+warp to zoras domain (Ne‘ez Yohma), drop down left, up waterfall, follow
+path follow rings to shrine, grab electric arrows there, do shrine, beat
+up the lynel on to of the mountain for **Lynel Bow**, **Lynel Sword** and **Lynel Shield**
+
+tree launch NEE, **Lizalfos** with **Lizal Boomerang** and **Lizal Shield**
+there, up hill and kill all the guardians here with ancient arrows, grab
+their stuff, **Blue Moblin** with **Moblin Club** next to shrine, do shrine, make sunny day,
+drop SW for **Common Sparrow**
+
 warp to rito (Akh Va‘quot) launch to revali pillars, treelaunch to
 stable, get horse, ride to canyon, campfire until morning half way, horn
-from *Dinraal*, do shrine
+from **Dinraal**, do shrine
 
 warp to Sha Warvo, launchchain get **Cold Safflina** on the way, house of
 shields: **Emblazoned Shield**, **Traveler‘s Shield**, **Fisherman‘s Shield**,
@@ -391,13 +411,9 @@ up and NE to first **White-Maned Lynel**, with **Savage Lynel Bow**,
 **Savage Lynel Crusher**, SE for Lynel with **Savage Lynel Sword**,
 **Savage Lynel Shield**, NE for Lynel with **Savage Lynel Spear**
 
-\[TODO: test if this can be done after akkala+miphas\]
+warp to Medoh, attack up refight (2x fury), ruta (1x fury), rudania (0x fury)
 
-Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
-ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
-**Savage Lynel Bow**, **Lynel Spear**, ride more S to next Lynel w/ **Lynel Crusher**
-
-(finish other stuff with) **Igneo Talus Titan**, divine trial, enter
+ divine trial, enter
 **Monk Maz Koshia** battle, but warp after photo to Katah Chuki, farm ancient
 stuff from **Guardian Stalker** and Guardian Skywatcher,
 near HC Town, **Guardian Turret** all over Hyrule Castle, make
@@ -421,14 +437,3 @@ warp to Mogg Latan, **Lord of the Mountain**, make it a sunny day,
 get all the missing elemental weapons: **Thunderspear**, **Frostspear**,
 **Frostblade**, **Flamespear**, **Silver Lynel** in the center
 (watch out!)
-
-**Windcleaver**
-
-
-stable with **Donkey**, **Highland Sheep**, make night, take horse, NW to
-start another fun flame carry quest to akkala tech lab, make little
-detour N to monster base for a moblin with a **Spiked Moblin Spear** and a
-bokoblin with a **Dragonbone Boko Shield**, not enough shit yet for all
-the good weapons :(, back to horse, E to a fight with a Lynel,
-**Mighty Lynel Spear**, S to a Lynel with a **Mighty Lynel Sword**,
-**Mighty Lynel Shield**, W to skull lake, talk to Kilton
