@@ -84,51 +84,51 @@ grab **Torch**, outside **Hightail Lizard**, **Tree Branch**, **Eightfold Blade*
 **Boko Shield**, **Shield of the Mind‘s Eye**, **Traveler‘s Bow**, **Soldier‘s
 Bow**
 
-treelaunch NE into snow, *Naydra*, shieldsurf down to woods, *Rushroom*
-on mountain, S*ilent Shroom* in the woods, *Hylian Shroom*, 2 *Hearty
-Radish* pick up at least 3 Sunshrooms, W S*tamella Shroom*,
+treelaunch NE into snow, **Naydra**, shieldsurf down to woods, **Rushroom**
+on mountain, **Silent Shroom** in the woods, **Hylian Shroom**, 2 **Hearty Radish**
+pick up at least 3 Sunshrooms, W **Stamella Shroom**,
 
-*Armored Carp* in lake, *Bright-Chested Duck*
+**Armored Carp** in lake, **Bright-Chested Duck**, **Korok Leaf** behind fence
 
-*Hateno Cow* and *Hylian Retriever* on the farm, *Apple* on tree
+**Hateno Cow** and **Hylian Retriever** on the farm, **Apple** on tree
 
-more W, *Hyrule Bass* and *Staminoka Bass* in lake, *Restless Cricket*
-SW in field, *Farming Hoe*, *Farmer‘s Pitchfork* in little house E from
-frog pond, *Hot-Footed Frog,* W for *Wooden Mop*, *Cucco*
+more W, **Hyrule Bass** and **Staminoka Bass** in lake, **Restless Cricket**
+SW in field, in little house E from frog pond **Farming Hoe**,
+**Farmer‘s Pitchfork**, **Hot-Footed Frog**, W for **Wooden Mop**
 
-Exit Hateno W, *Blue Bokoblin*, *Bokoblin*, kill one with *Boko Club*,
-follow path S, W, S to *Moblin*, E boko with *Moblin Spear*, *Chuchu*, W
-to Moblin with *Boko Bat*, S *Ice Keese*, back E, *Soldier‘s Spear*,
-*Wooden Bow*, more E to pond with *Hearty Bass*, clilmb up hill SW to
+Heightlaunch from tree behind house to boko base,
+follow path S, W, S to **Moblin**, E boko with **Moblin Spear**, **Chuchu**, W
+to Moblin with **Boko Bat**, back E, **Soldier‘s Spear**,
+**Wooden Bow**, more E to pond with **Hearty Bass**, clilmb up hill SW to
 the hinox brothers
 
-Fly onto the *Hinox*, *Spiked Boko Bat*, *Spiked Boko Bow*, E stone
-chest with *Giant Boomerang*, S to *Blue Hinox*, *Dragonbone Boko
-Spear*, *Dragonbone Boko Club*, *Courser Bee Honey* on tree, *Bladed
-Rhino Beetle*, *Rugged Rhino Beetle*, *Energetic Rhino Beetle* on the
-trees there
+Fly onto the **Hinox**, **Spiked Boko Bat**, **Spiked Boko Bow**, E stone
+chest with **Giant Boomerang**, S to **Blue Hinox**, **Dragonbone Boko Spear**,
+**Dragonbone Boko Club**, **Courser Bee Honey** on tree, **Bladed Rhino Beetle**,
+**Rugged Rhino Beetle**, **Energetic Rhino Beetle** on the
+trees there, if the beetles troll you, they can spawn near the black one too
 
-Up Hill NW to the *Black Hinox*, grab *Knight‘s Bow* and *Knight‘s
-Halberd*, grab a some *Fleet-Lotus Seeds* around there, make your way to
+Up Hill NW to the **Black Hinox**, grab **Knight‘s Bow** and **Knight‘s Halberd**,
+grab a some **Fleet-Lotus Seeds** around there, make your way to
 farosh farming point
 
-*Mighty Thistle* there, farm \[some number\] horns of *Farosh* with the
-*Phrenic Bow* in a chest there, *Electric Keese* in the cave, launch to
-lakeside Stable, make *SPEED*food, hope of make the clear day weather
-for the *Rainbow Sparrow* on the bridge. Take *Horse* across bridge,
-ride E over the bridge to Lurelin Village, *Palm Fruit*, *Boat Oar* near
-boat, S to *Razorclaw Crab*, E *Hearty Blueshell Snail* on the beach,
-*Fishing Harpoon*, *Seagull* somewhere in the air, go to the seaside
-shop, *Mighty Porgy*, *Armored Porgy*, *Ironshell Crab*
+**Mighty Thistle** there, farm \[some number\] horns of *Farosh* with the
+**Phrenic Bow** in a chest there, **Electric Keese** in the cave, launch to
+lakeside Stable, make *SPEED*food, make the clear day weather
+for the **Rainbow Sparrow** on the bridge. Take **Horse** across bridge,
+ride E over the bridge to Lurelin Village, **Palm Fruit**, **Boat Oar** near
+boat, S to **Razorclaw Crab**, E **Hearty Blueshell Snail** on the beach,
+**Fishing Harpoon**, **Seagull** somewhere in the air, go to the seaside
+shop, **Mighty Porgy**, **Armored Porgy**, **Ironshell Crab**
 
-Warp to SoR, *Stone Talus* down left, treelaunch to colusseum, Bomb
-arrow *Treasure Chest* N of colusseum, drop down get Phantom Helm Chest,
-leave to the stable, *Armoranth* at E, get horse, NE across small
-bridge, kill 2 Blue Bokos with *Spiked Boko Club* and *Spiked Boko
-Shield* to save the travelers with a *Traveler‘s Sword*, ride NE to
-ruins with a chest with a *Serpentine Spear*, N to next Phantom armor
-piece, N to next phantom armor piece, grab *Big Hearty Radish* and N a
-bit to grab a *Endura Shroom*, ride north to activate Katah Chuki
+Warp to SoR, **Stone Talus** down left, treelaunch to colusseum, Bomb
+arrow **Treasure Chest** N of colusseum, drop down get Phantom Helm Chest,
+leave to the stable, **Armoranth** at E, get horse, NE across small
+bridge, kill 2 Blue Bokos with **Spiked Boko Club** and **Spiked Boko Shield**
+to save the travelers with a **Traveler‘s Sword**, ride NE to
+ruins with a chest with a **Serpentine Spear**, N to next Phantom armor
+piece, N to next phantom armor piece, grab **Big Hearty Radish** and N a
+bit to grab a **Endura Shroom**, ride north to activate Katah Chuki
 
 run towards castle in the West Passage, grab shock arrows under slab left,
 **Luminous Stone Deposit**, get
@@ -178,59 +178,58 @@ from W into LW, void out into it, **Tree Branch** on the way to **Master Sword**
 **Forest Dweller‘s Shield** and **Forest Dweller‘s Spear**, then to test of wood
 **Forest Dweller‘s Bow**, **Forest Dweller‘s Sword** behind koroks
 
-TP to Katah Chuki, ride to Tabantha Stable, *Rainbow Pigeon* on the way,
-*Wild Berry*, *Spicy Pepper*, *Soldier‘s Broadsword*, *White Goat*, buy
-*Winterwing Butterfly*, *Summerwing Butterfly* and *Thunderwing
-Butterfly*
+TP to Katah Chuki, ride to Tabantha Stable, **Rainbow Pigeon** on the way,
+**Wild Berry**, **Spicy Pepper**, **Soldier‘s Broadsword**, **White Goat**, buy
+**Winterwing Butterfly**, **Summerwing Butterfly** and **Thunderwing Butterfly**
 
-Treelaunch NNW to *Ore Deposit* and *Rare Ore Deposit*, kill *Stone
-Talus (Rare)*, climb up kill all 3 *Blue Lizalfos*, get their *Feathered
-Spear*, *Feathered Edge*, *Lizal Forked Boomerang*, treelaunch to rito
-at sunny day to catch an annoying *Red Sparrow* around there, *Hearty
-Salmon*, activate Shrine
+Treelaunch NNW to **Ore Deposit** and **Rare Ore Deposit**, kill **Stone Talus (Rare)**,
+climb up kill all 3 **Blue Lizalfos**, get their **Feathered Spear**,
+**Feathered Edge**, **Lizal Forked Boomerang**, treelaunch to rito
+at sunny day to catch an annoying **Red Sparrow** around there, **Hearty Salmon**, activate Shrine
 
 talk to Elder, lady, treelaunch to Flight Range, activate Shrine, equip
-Warm Doublet and Great Flameblade to not die, *Swallow Bow*, Talk to
-Teba, 5 Targets, get *Falcon Bow* in Chest, Attack on Vah Medoh
+Warm Doublet and Great Flameblade to not die, **Swallow Bow**, Talk to
+Teba, 5 Targets, get **Falcon Bow** in Chest, Attack on Vah Medoh
 
 Get ancient Core in chest before the first terminal, don‘t shoot the eye
-immediately, let *Cursed Bokoblin*, *Cursed Moblin*, *Cursed Lizalfos*
-spawn, do mapless Medoh as always, *Windblight Ganon* with full phantom
+immediately, let **Cursed Bokoblin**, **Cursed Moblin**, **Cursed Lizalfos**
+spawn, do mapless Medoh as always, **Windblight Ganon** with full phantom
 Armor, Heart Container (why not?), Revalis Gale
 
-Finish Vah Medoh Main Quest, get *Great Eagle Bow*, treelaunch E to
-Stable with Beedle with *Warm Darner* and *Hearty Lizard*, *Pot Lid*, N
-grab radish, to Lake with *Chillfin Trout* and *Voltfin Trout*
+Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
+Stable with Beedle with **Warm Darner** and **Hearty Lizard**, **Pot Lid**, N
+grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
 
 \[TODO: move that to later when lynels have savage lynel bows and are
 still normal lynels\]
 
-Warp to stasis, boulder launch to *Giant Horse*, get on another horse,
-ride S to the *Lynel*, kill with Revalis Bow and elemental arrows,
-*Lynel Bow*, *Lynel Spear*, ride more S to next Lynel w/ *Lynel Crusher*
+Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
+ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
+**Lynel Bow**, **Lynel Spear**, ride more S to next Lynel w/ **Lynel Crusher**
 
-Warp to Cryonis, chestlaunch to Gerudo, gale up, *Stone Talus
-(Luminous)*, treelaunch W to *Sand Seal*, to Gerudo Town, make sure it‘s
-daytime for *Sand Sparrow*, activate Shrine, talk to Guy, surf to Oasis,
-*Soup Ladle* left, gale to get Clothes, *Cold Darner* from Beedle, warp
+Warp to Cryonis, chestlaunch to Gerudo, gale up, **Stone Talus (Luminous)**,
+treelaunch W to **Sand Seal**, to Gerudo Town, make sure it‘s
+daytime for **Sand Sparrow**, activate Shrine, talk to Guy, surf to Oasis,
+**Soup Ladle** left, gale to get Clothes, **Cold Darner** from Beedle, warp
 back, enter town
 
-Shop with *Hearty Durian*, *Hydromelon*, *Voltfruit*, Shroom shop with
-*Chillshroom*, *Zapshroom*, *Razorshroom*, *Ironshroom*, Arrow shop with
-*Arrow*, *Fire Arrow*, *Ice Arrow*, *Bomb Arrow*, *Shock Arrow*, to
-Riju, *Gerudo Spear* from the Gerudo Guards, *Golden Claymore* from the
-person next to Riju, left to *Patricia*, right talk to Gerudos, *Golden
-Bow* on wall, *Gerudo Shield*, *Gerudo Scimirtar*, *Radiant Shield*,
-*Moonlight Scimitar* on the Gerudos here
+Shop with **Hearty Durian**, **Hydromelon**, **Voltfruit**, Shroom shop with
+**Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, Arrow shop with
+**Arrow**, **Fire Arrow**, **Ice Arrow**, **Bomb Arrow**, **Shock Arrow**, to
+Riju, Gerudo with **Gerudo Shield**, **Gerudo Scimirtar**, **Gerudo Spear**
+from the Gerudo Guards, **Golden Claymore** from the
+person next to Riju, left to **Patricia**, right talk to Gerudos,
+**Golden Bow** on wall, **Radiant Shield**,
+**Moonlight Scimitar** on the Gerudos here
 
-take Sand Seal to Yigas, *Warm Safflina*, *Electric Safflina* on the
-Way, activate Luminous Stone Shrine, dodge *Yiga Footsoldier*, grab
-*Duplex Bow*, open Yiga hideout, *Vicious Sickle* on box right of
-entrance, *Yiga Blademaster*, grab *Mighty Bananas*, fly past yiga
+take Sand Seal to Yigas, **Warm Safflina**, **Electric Safflina** on the
+Way, activate Luminous Stone Shrine, dodge **Yiga Footsoldier**, grab
+**Duplex Bow**, open Yiga hideout, **Vicious Sickle** on box right of
+entrance, **Yiga Blademaster**, grab **Mighty Bananas**, fly past yiga
 idiot, climb ladder, open yiga rupee room, more bananas, 100R, 2x 300R,
 out and fight
 
-!!!!*MASTER KOHGA*!!!(if you forget this picture the run is dead),
+!!!!**MASTER KOHGA**!!!(if you forget this picture the run is dead),
 onecycle thanks to attack up and OP weapons
 
 equip warm doublet and great flameblade, to the snow, W then N up,
@@ -320,7 +319,7 @@ the good weapons :(, back to horse, E to a fight with a Lynel, *Mighty
 Lynel Spear*, S to* *a Lynel with a *Mighty Lynel Sword*, *Mighty Lynel
 Shield*, W to skull lake, talk to Kilton
 
-Warp to Kakariko (Tahlo Negg), *Sunset Firefly* by small bridge, *Sneaky
+Warp to Kakariko (Tahlo Negg), *Sunset Firefly* by small bridge, **Cucco** *Sneaky
 River Snail*, *Fortified Pumpkin*, *Swift Carrot*, *Sanke Carp* behind
 Impas house, chest with *Eightfold Longblade*, make sunny day, up again,
 *Blupee*, *Fairy*, *Blue Nightshade*, *Silent Princess*, *Endura Carrot*
