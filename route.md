@@ -112,7 +112,7 @@ Up Hill NW to the **Black Hinox**, grab **Knight‘s Bow** and **Knight‘s Halb
 grab a some **Fleet-Lotus Seeds** around there, make your way to
 farosh farming point
 
-**Mighty Thistle** there, farm \[some number\] horns of *Farosh* with the
+**Mighty Thistle** there, farm \[some number\] horns of **Farosh** with the
 **Phrenic Bow** in a chest there, **Electric Keese** in the cave, launch to
 lakeside Stable, make *SPEED*food, make the clear day weather
 for the **Rainbow Sparrow** on the bridge. Take **Horse** across bridge,
@@ -162,7 +162,7 @@ and sneak strike it, bomb arrows, left . . . through the door, kill
 moblin with **Royal Claymore**, **Rusty Shield**, **Rusty Broadsword**,
 **Rusty Halberd**, **Rusty Claymore**, **Royal Guard‘s Shield**,
 **Soldier‘s Claymore**, wooden boxes for arrows, climb up, follow path, left, destroy
-wall for Royal Guard‘s Broadsword
+wall for **Royal Guard‘s Broadsword**
 
 back right, get **Hearty Truffle** and **Big Hearty Truffle** in dinner
 hall, back in, left, follow path, ignore moblins, shoot eye,
@@ -256,9 +256,18 @@ whatever naboris route, kill one guardian with a *Guardian Sword*, then
 destroy *Thunderblight Ganon*, heart container Urbosas Fury, finish Main
 Quest for *Scimitar of the Seven* and *Daybreaker*
 
-warp to riverside stable, buy *Electric Darner* and *Tireless Frog*
+Warp to Kakariko (Tahlo Negg), **Sunset Firefly** by small bridge, **Cucco**,
+**Sneaky River Snail**, **Fortified Pumpkin**, **Swift Carrot**, **Sanke Carp** behind
+Impas house, chest with **Eightfold Longblade**, make sunny day, up again,
+**Blupee**, grab **Fairy**, **Blue Nightshade**, **Silent Princess**, grab **Endura Carrot**
+
+more E, talk to „Traveler“ near Lanayru Road – West Gate, select bottom
+option(?), kill Yiga for **Deamon Carver**, climb hill E for **Golden Sparrow**,
+**Islander Hawk**, down NE to a pond with a **Mighty Carp**
+
+warp to riverside stable, buy **Electric Darner** and **Tireless Frog**
 (kill it with one handed sword to keep it) from Beedle, make sunny good
-weather, ride over the Bridges to Wetland Stable, *Blue Sparrow* on
+weather, ride over the Bridges to Wetland Stable, **Blue Sparrow** on
 second Bridge
 
 buy *Smotherwing Butterfly* from Beedle, make night at stable, ride N,
@@ -318,16 +327,6 @@ bokoblin with a *Dragonbone Boko Shield*, not enough shit yet for all
 the good weapons :(, back to horse, E to a fight with a Lynel, *Mighty
 Lynel Spear*, S to* *a Lynel with a *Mighty Lynel Sword*, *Mighty Lynel
 Shield*, W to skull lake, talk to Kilton
-
-Warp to Kakariko (Tahlo Negg), *Sunset Firefly* by small bridge, **Cucco** *Sneaky
-River Snail*, *Fortified Pumpkin*, *Swift Carrot*, *Sanke Carp* behind
-Impas house, chest with *Eightfold Longblade*, make sunny day, up again,
-*Blupee*, *Fairy*, *Blue Nightshade*, *Silent Princess*, *Endura Carrot*
-
-more E, talk to „Traveler“ near Lanayru Road – West Gate, select bottom
-option, kill Yiga for *Deamon Carver*, climb hill E for *Golden
-Sparrow*, *Islander Hawk*, down NE to a pond with a *Mighty Carp*
-
 
 warp to SoR for champions ballad, **One-Hit Obliterator**, glide down,
 shoot arrow to keese, kill boko with obliterator, kill 3 blue bokos down with arrows,
