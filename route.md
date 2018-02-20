@@ -52,7 +52,7 @@ Best Way to farm:
 
 ROUTE(wip):
 
-tree banch, axe, herb, arrows, boko shield, tower
+tree banch, flint by old man, axe, herb, arrows, boko shield, tower
 
 examine guardian wreck, magnesis
 
@@ -69,9 +69,10 @@ bombs with damage physics reset
 
 run and treelaunch to ToT, paraglider, soldier‘s bow, warp to magnesis
 
-boxlaunch to horses, NE to stable, sell gems to beetle, register horse,
-E over bridges to kakariko
+boxlaunch to horses, NE to stable, sell gems to beetle (300R),
+buy all arrows (150R), register horse (130R), E over bridges to kakariko
 
+right, buy all arrows, left, buy 2 carrots,
 to impa, talk, activate shrine, go inside, take chests, exit
 
 E, tree carry E, run and glide to boulder, lauch near hateno, flame with
@@ -80,9 +81,8 @@ trreebranch to the lab
 talk to purra, get camera, photo her, talk again (Note: this is
 necessary to activate akkala tech lab)
 
-grab **Torch**, outside **Hightail Lizard**, **Tree Branch**, **Eightfold Blade**,
-**Boko Shield**, **Shield of the Mind‘s Eye**, **Traveler‘s Bow**, **Soldier‘s
-Bow**
+grab **Torch**, outside **Hightail Lizard**, **Eightfold Blade**,
+**Shield of the Mind‘s Eye**, **Traveler‘s Bow**, **Soldier‘s Bow**
 
 treelaunch NE into snow, **Naydra**, shieldsurf down to woods, **Rushroom**
 on mountain, **Silent Shroom** in the woods, **Hylian Shroom**, 2 **Hearty Radish**
@@ -97,10 +97,9 @@ SW in field, in little house E from frog pond **Farming Hoe**,
 **Farmer‘s Pitchfork**, **Hot-Footed Frog**, W for **Wooden Mop**
 
 Heightlaunch from tree behind house to boko base,
-follow path S, W, S to **Moblin**, E boko with **Moblin Spear**, **Chuchu**, W
-to Moblin with **Boko Bat**, back E, **Soldier‘s Spear**,
-**Wooden Bow**, more E to pond with **Hearty Bass**, clilmb up hill SW to
-the hinox brothers
+follow path S, W, S to **Moblin**, E boko with **Moblin Spear**, **Chuchu**, E,
+**Soldier‘s Spear**, **Wooden Bow**, more E to pond with **Hearty Bass**,
+clilmb up hill SW to the hinox brothers
 
 Fly onto the **Hinox**, **Spiked Boko Bat**, **Spiked Boko Bow**, E stone
 chest with **Giant Boomerang**, S to **Blue Hinox**, **Dragonbone Boko Spear**,
@@ -108,13 +107,14 @@ chest with **Giant Boomerang**, S to **Blue Hinox**, **Dragonbone Boko Spear**,
 **Rugged Rhino Beetle**, **Energetic Rhino Beetle** on the
 trees there, if the beetles troll you, they can spawn near the black one too
 
-Up Hill NW to the **Black Hinox**, grab **Knight‘s Bow** and **Knight‘s Halberd**,
-grab a some **Fleet-Lotus Seeds** around there, make your way to
+Up Hill NW to the **Black Hinox**, kill Blue Boko next to **Thunderstorm Rod**,
+on hinox grab **Knight‘s Bow** and **Knight‘s Halberd**,
+grab 15 **Fleet-Lotus Seeds** around there kill Blue Bokos with Bows, make your way to
 farosh farming point
 
-**Mighty Thistle** there, farm \[some number\] horns of **Farosh** with the
+**Mighty Thistle** there, farm 24 horns of **Farosh** with the
 **Phrenic Bow** in a chest there, **Electric Keese** in the cave, launch to
-lakeside Stable, make *SPEED*food, make the clear day weather
+lakeside Stable, make *SPEED*food(3 lotus, 1 carrot, 1 horn), make the clear day weather
 for the **Rainbow Sparrow** on the bridge. Take **Horse** across bridge,
 ride E over the bridge to Lurelin Village, **Palm Fruit**, **Boat Oar** near
 boat, S to **Razorclaw Crab**, E **Hearty Blueshell Snail** on the beach,
@@ -200,13 +200,6 @@ Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
 Stable with Beedle with **Warm Darner** and **Hearty Lizard**, **Pot Lid**, N
 grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
 
-\[TODO: move that to later when lynels have savage lynel bows and are
-still normal lynels\]
-
-Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
-ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
-**Lynel Bow**, **Lynel Spear**, ride more S to next Lynel w/ **Lynel Crusher**
-
 Warp to Cryonis, chestlaunch to Gerudo, gale up, **Stone Talus (Luminous)**,
 treelaunch W to **Sand Seal**, to Gerudo Town, make sure it‘s
 daytime for **Sand Sparrow**, activate Shrine, talk to Guy, surf to Oasis,
@@ -233,28 +226,28 @@ out and fight
 onecycle thanks to attack up and OP weapons
 
 equip warm doublet and great flameblade, to the snow, W then N up,
-*White Pigeon*, *Snow Octorok*, clib uphill to *Treasure Octorok*,
-paraglide W and gale to *Blue-Maned Lynel*, stunlock with phantom armor,
-Great Eagle Bow and Shock arrows (?), grab *Mighty Lynel Crusher* and
-*Mighty Lynel Bow*, surf SSE to *Grizzlemaw Bear*, W to *Frost Talus*,
+**White Pigeon**, **Snow Octorok**, clib uphill to **Treasure Octorok**,
+paraglide W and gale to **Blue-Maned Lynel**, stunlock with phantom armor,
+Great Eagle Bow and Shock arrows (?), grab **Mighty Lynel Crusher** and
+**Mighty Lynel Bow**, surf SSE to **Grizzlemaw Bear**, W to **Frost Talus**,
 make it night, launch to satori mountain, climb up and activate Shrine
-to come back for the *Lord of the Mountain* later, glide to NE side of
+to come back for the Lord of the Mountain later, glide to NE side of
 the lake
 
-*Stalizalfos* with *Lizal Spear* and hit them for *Lizalfos Arm*, S for
-stalizalfos with *Enhanced Lizal Spear*, more E for a *Stalhorse*,
-*Stalkoblin*, *Bokoblin Arm* and *Forest Octorok*, go E for a rock with
-a diamond underneath, *Boko Bow* down right, right stalkoblin, more E
-for *Dragonbone Boko Bat*, glide down E to group of Stalkoblins, *Boko
-Spear* and *Spiked Boko Spear*, N to pond, *Strengthened Lizal Bow*, go
-up the hill to NW for a stalizalfos with a *Reinforced Lizal Shield*
+**Stalizalfos** with **Lizal Spear** and hit them for **Lizalfos Arm**, S for
+stalizalfos with **Enhanced Lizal Spear**, more E for a **Stalhorse**,
+**Stalkoblin**, **Bokoblin Arm** and **Forest Octorok**, go E for a rock with
+a diamond underneath, **Boko Bow** down right, right stalkoblin, more E
+for **Dragonbone Boko Bat**, glide down E to group of Stalkoblins, **Boko Spear**
+and **Spiked Boko Spear**, N to pond, **Strengthened Lizal Bow**, go
+up the hill to NW for a stalizalfos with a **Reinforced Lizal Shield**
 
 warp back to Gerudo Town shrine, continiue quest.. shooting naboris and
 such
 
-whatever naboris route, kill one guardian with a *Guardian Sword*, then
-destroy *Thunderblight Ganon*, heart container Urbosas Fury, finish Main
-Quest for *Scimitar of the Seven* and *Daybreaker*
+whatever naboris route, kill one guardian with a **Guardian Sword**, then
+destroy **Thunderblight Ganon**, heart container Urbosas Fury, finish Main
+Quest for **Scimitar of the Seven** and **Daybreaker**
 
 Warp to Kakariko (Tahlo Negg), **Sunset Firefly** by small bridge, **Cucco**,
 **Sneaky River Snail**, **Fortified Pumpkin**, **Swift Carrot**, **Sanke Carp** behind
@@ -270,78 +263,69 @@ warp to riverside stable, buy **Electric Darner** and **Tireless Frog**
 weather, ride over the Bridges to Wetland Stable, **Blue Sparrow** on
 second Bridge
 
-buy *Smotherwing Butterfly* from Beedle, make night at stable, ride N,
-in the little place on the left side, *Mountain Buck*, *Mountain Doe*,
-*Honeyvore Bear*, turn around, follow road again, stop with horse at
-first stump with *Fire Wizzrobe*, kill for *Fire Rod*, *Fire Chuchu*,
-ride more N, run SW over hill to southest stump, *Blizzrobe*, *Blizzard
-Rod*, *Ice Chuchu*, W to *Thunder Wizzrobe*, *Thunder Rod*, *Electric
-Chuchu*, NE to *Stalmoblin*, *Moblin Arm*, *Spiked Moblin Club*, NE to
-Namika Ozz, *Guardian Spear+* and *Ancient Batte Axe+*, grab stuff it
+buy **Smotherwing Butterfly** from Beedle, make night at stable, ride N,
+in the little place on the left side, **Mountain Buck**, **Mountain Doe**,
+**Honeyvore Bear**, turn around, follow road again, stop with horse at
+first stump with **Fire Wizzrobe**, kill for **Fire Rod**, **Fire Chuchu**,
+ride more N, run SW over hill to southest stump, W to **Thunder Wizzrobe**, but don't kill it, **Electric Chuchu**,
+NE to **Stalmoblin**, **Moblin Arm**, **Spiked Moblin Club**, NE to
+Namika Ozz, **Guardian Spear+** and **Ancient Batte Axe+**, grab stuff it
 dropped, exit
 
-NW to *Meteo Wizzrobe*, *Meteo Rod*, W to *Ice Wizzrobe*, *Ice Rod*, E
-to Stalkoblin with *Dragon Bone Boko Bow*, more E to *Electric
-Wizzrobe*, *Stone Pebblit*, hope that horsey is here,
-SE not over the bridge until swamp, kill lizalfos with *Boomerang*, go
-over lizal camp, avoid zora cutscene trigger, NE to camp with *Throwing
-Spear*, N to Foothill Stable, activate Mo‘a Keet, *Double Axe*, buy
+NW to **Meteo Wizzrobe**, **Meteo Rod**, W to **Ice Wizzrobe**, **Ice Rod**, E
+to Stalkoblin with **Dragon Bone Boko Bow**, more E to
+**Electric Wizzrobe**, **Stone Pebblit**, hope that horsey is here,
+SE not over the bridge until swamp, kill lizalfos with **Boomerang**, go
+over lizal camp, avoid zora cutscene trigger, NE to camp with **Throwing Spear**,
+N to Foothill Stable, activate Mo‘a Keet, **Double Axe**, buy
 Flame potion or cook Smotherwing Butterfly if it didn‘t fly away
 
-make day, go to the path up death mountain, watch out for *Golden
-Sparrow* and *Hotfeather Pigeon* there, e kill *Guardian Stalker* with
-ancient arrow, *Fire Keese* in Cave, follow the flying machine hater
-(aka ancient AD) route to Shrine near Eldin Bridge, *Igneo Pebblit* on
-the way, *Igneo Talus* after last gale, glide over to Goron City, get
-Flamebreaker Shorts, *Fireproof Lizard* on a stone on the way to Goron
-elder, activate Shrine, *Rock Octorok*, go and free Yunobo, *Cobble
-Crusher* inside, ice arrows?
+make day, go to the path up death mountain, watch out for **Hotfeather Pigeon**
+there, e kill **Guardian Stalker** with
+ancient arrow, **Fire Keese** in Cave, follow the flying machine hater
+(aka ancient AD) route to Shrine near Eldin Bridge, **Igneo Pebblit** on
+the way, **Igneo Talus** after last gale, glide over to Goron City, get
+Flamebreaker Shorts, **Fireproof Lizard** on a stone on the way to Goron
+elder, activate Shrine, **Rock Octorok**, go and free Yunobo,
+**Cobble Crusher** inside, ice arrows
 
 warp back to goron city (Shae Mo‘sah), talk to elder, tree strats up to
 the zoras and down to zoras domain, cutscnenes Resident sleeper, zora
-armor, go to the shop with *Sizzlefin Trout*, *Swift Violet*, activate
-shrine, grab fleet lotus seeds, *Silver Longsword* behind shrine, grab
-torch by cooking pot, run to entry of zora domain, zoras with *Zora
-Spear* and *Silverscale Spear*, glide down NE, *Silver Bow* between last
+armor, go to the shop with **Sizzlefin Trout**, **Swift Violet**, activate
+shrine, grab fleet lotus seeds, **Silver Longsword** behind shrine, grab
+torch by cooking pot, run to entry of zora domain, zoras with **Zora Spear**
+and **Silverscale Spear**, glide down NE, **Silver Bow** between last
 and second to last pillar, swim up waterfall, run and treecarry to
-sidon, fight with Ruta, Vah Ruta, *Waterblight Ganon*
+sidon, fight with Ruta, Vah Ruta, **Waterblight Ganon**
 
-finish main quest, get *Lightscale Trident*, E to bridge, *Silver
-Shield* and *Zora Sword*, drop down and cryo near trident, magnesis the
-*Ceremonial Trident* up,
+finish main quest, get **Lightscale Trident**, E to bridge, **Silver Shield**
+and **Zora Sword**, drop down and cryo near trident, magnesis the
+**Ceremonial Trident** up,
 
-warp back to Yunobo (Daqa Koh), triplefury moblins with *Drillshaft*,
+warp back to Yunobo (Daqa Koh), triplefury moblins with **Drillshaft**,
 enter Yunobo escort,
 
-!!!!!*Sentry*!!! (another place where the run can die)
+!!!!!**Sentry**!!! (another place where the run can die)
 
-Kill as many Sentries as possible to get their ancient stuff, kill
-moblins with bow, Vah Rudania, *Fireblight Ganon*,
+get stuff from sentries, kill
+moblins with bow/box, Vah Rudania, **Fireblight Ganon**,
 
-finish main quest for *Boulder Breaker* (keep this for the DLC talus),
-warp to Rudania, kinda AMQ strat to get to akkala, but more E to the
-stable with *Donkey*, *Highland Sheep*, make night, take horse, NW to
-start another fun flame carry quest to akkala tech lab, make little
-detour N to monster base for a moblin with a *Spiked Moblin Spear* and a
-bokoblin with a *Dragonbone Boko Shield*, not enough shit yet for all
-the good weapons :(, back to horse, E to a fight with a Lynel, *Mighty
-Lynel Spear*, S to* *a Lynel with a *Mighty Lynel Sword*, *Mighty Lynel
-Shield*, W to skull lake, talk to Kilton
+finish main quest for **Boulder Breaker** (keep this for the DLC talus)
 
 warp to SoR for champions ballad, **One-Hit Obliterator**, glide down,
 shoot arrow to keese, kill boko with obliterator, kill 3 blue bokos down with arrows,
 climb up to a **Silver Bokoblin**, kill with Obliterator, shock arrows,
 make sure Obliterator is charged jump down, arrow kill 2 bokos, kill **Black Bokoblin**
-with obliterator, **Lightning Rod**, chest with bomb arrows, to shrine, do shrine
+with obliterator, **Lightning Rod**, **Boko Bat**, **Boko Club**,
+**Boko Shield**, chest with bomb arrows, to shrine, do shrine
 
 warp to Plateau tower, glide down to lizal camp, obliteratorshockwave the 3,
-**Silver Lizalfos** before it disappears, **Flameblade**, snipe south lizalfos,
+**Silver Lizalfos** before it disappears, **Flameblade**, **Lizal Bow**, snipe south lizalfos,
 obliterate near lizalfos, snipe reamaining two,to shrine, do shrine
 
 warp to Cryonis, warm doublet, to moblin camp, **Blizzrobe**, **Silver Moblin**,
 kill Blizzrobe with fire arrow, obliteratorshockwave Moblins, chest with ice arrows,
-**Traveler's Spear**, **Blizzard Rod**, kill **Ice-Breath Lizalfos** with fire arrows, kill Moblin with
-Obliterator, surf to shrine, do shrine (and don't die pls)
+**Traveler's Spear**, **Blizzard Rod**, kill **Ice-Breath Lizalfos** with fire arrows, kill Moblin with Obliterator, **Ice Chuchu**, surf to shrine, do shrine (and don't die pls)
 
 surf down to next camp, kill fire breath lizalfos with ice arrows, freeze moblin,
 shoot lizalfos, shoot boko riders, shoot bokos with Korok leafs, grab 10 arrow chest,
@@ -359,32 +343,34 @@ notes: etsu korima, dark shrine 300 rupees?, kee dafunia frostblade?,
 sato koda giant ancient core, kamia omuna diamond? Kihiro moh
 thunderspear?
 
-warp to Vah Ruta, rock launch to pillars, listen, NE to trees, *Hyrule
-Herb* and Radish, tree carry NE, when it lands right launch NW to
-southest Tingle island, *Water Octorok*, make it morning, treelaunch to
+general route idea (TODO):
+goron pillars, FM to Magmarok, akkala kilton, warp back to shrine, all of gerudo, refight,
+
+warp to Vah Ruta, rock launch to pillars, listen, NE to trees,
+**Hyrule Herb** and Radish, tree carry NE, when it lands right launch NW to
+southest Tingle island, **Water Octorok**, make it morning, treelaunch to
 shrinering, do shrine
 
 warp to zoras domain (Ne‘ez Yohma), drop down left, up waterfall, follow
 path follow rings to shrine, grab electric arrows there, do shrine, beat
-up the lynel on to of the mountain for *Lynel Sword* and *Lynel Shield*,
-tree launch NEE, *Lizalfos* with *Lizal Boomerang* and *Lizal Shield*
+up the lynel on to of the mountain for **Lynel Bow**, **Lynel Sword** and **Lynel Shield**,
+tree launch NEE, **Lizalfos** with **Lizal Boomerang** and **Lizal Shield**
 there, up hill and kill all the guardians here with ancient arrows, grab
-their stuff, E to the turret is a Lizalfos with a *Lizal Bow*, *Blue
-Moblin* with *Moblin Club* next to shrine, do shrine, make sunny day,
-drop SW for common sparrow
+their stuff, **Blue Moblin** with **Moblin Club** next to shrine, do shrine, make sunny day,
+drop SW for **Common Sparrow**
 
 warp to ruta eat attack up, refight
 
 warp to Naboris, launch with rock from E korok puzzle to pillars,
-another rocklaunch with korok rock, drop down to *Molduking*,
+another rocklaunch with korok rock, drop down to **Molduking**,
 tripleurbosa and shock arrow shot, go to shrine, do shrine
 
 warp to gerudo town (Daqo Chisay) make night, equip gerudo clothes, buy
-sand seal, *Traveler‘s Claymore* on statues, to kiltons montershop,
-exchange lynel things for at least 199 mon, buy *Spring-Loaded Hammer*,
+sand seal, to kiltons montershop, **Traveler‘s Claymore** on statue
+exchange lynel things for at least 199 mon, buy **Spring-Loaded Hammer**,
 surf through the rings, do shrine
 
-bomb sand seal, surf right to *Molduga*
+bomb sand seal, surf right to **Molduga**
 
 warp to Sho Dantu (Two Bombs), run to the backdoor of the yigas grab
 ball and run out, stasis and shoot into hole, shrine
@@ -395,39 +381,54 @@ warp to rito (Akh Va‘quot) launch to revali pillars, treelaunch to
 stable, get horse, ride to canyon, campfire until morning half way, horn
 from *Dinraal*, do shrine
 
-warp to Sha Warvo, launchchain get *Cold Safflina* on the way, house of
-shields: *Emblazoned Shield*, *Traveler‘s Shield*, *Fisherman‘s Shield*,
-*Kite Shield*, *Royal Shield*, *Knight‘s Shield*, *Soldier‘s Shield*,
-*Wooden Shield*, *Hunter‘s Shield*, shieldsurf back and through the
+warp to Sha Warvo, launchchain get **Cold Safflina** on the way, house of
+shields: **Emblazoned Shield**, **Traveler‘s Shield**, **Fisherman‘s Shield**,
+**Kite Shield**, **Royal Shield**, **Knight‘s Shield**, **Soldier‘s Shield**,
+**Wooden Shield**, **Hunter‘s Shield**, shieldsurf back and through the
 rings to shrine, do shrine
 
-up and NE to first *White-Maned Lynel*, with *Savage Lynel Bow*, *Savage
-Lynel Crusher*, SE for Lynel with *Savage Lynel Sword*, *Savage Lynel
-Shield*, NE for Lynel with *Savage Lynel Spear*
+up and NE to first **White-Maned Lynel**, with **Savage Lynel Bow**,
+**Savage Lynel Crusher**, SE for Lynel with **Savage Lynel Sword**,
+**Savage Lynel Shield**, NE for Lynel with **Savage Lynel Spear**
 
-(finish other stuff with) *Igneo Talus Titan*, divine trial, enter *Monk
-Maz Koshia* battle, but warp after photo to Katah Chuki, farm ancient
-stuff from *Guardian Stalker* and Guardian Skywatcher, *Decayed
-Guardian*, near HC Town, *Guardian Turret* all over Hyrule Castle, make
-your farming way to *Calamity Ganon*, selfie mode for the *Bow of Light*
-and *Dark Beast Ganon*, skip credits
+\[TODO: test if this can be done after akkala+miphas\]
+
+Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
+ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
+**Savage Lynel Bow**, **Lynel Spear**, ride more S to next Lynel w/ **Lynel Crusher**
+
+(finish other stuff with) **Igneo Talus Titan**, divine trial, enter
+**Monk Maz Koshia** battle, but warp after photo to Katah Chuki, farm ancient
+stuff from **Guardian Stalker** and Guardian Skywatcher,
+near HC Town, **Guardian Turret** all over Hyrule Castle, make
+your farming way to **Calamity Ganon**, selfie mode for the **Bow of Light**
+and **Dark Beast Ganon**, skip credits
 
 warp to Akkala Tech lab, after (hopefully) enough farming get Ancient
 Short Sword, Ancient Bladesaw, Ancient Spear, Ancient Bow and Ancient
 Shield,
 
-warp to Hateno Lab, 3 screws for Slate+, *Sunshroom* sensing, get the
+warp to Hateno Lab, 3 screws for Slate+, **Sunshroom** sensing, get the
 confidential envelope
 
 .done
 
 WHEN THE Lord of the Mountain spawns, whenever do this:
 
-warp to Mogg Latan, *Lord of the Mountain*, make it a sunny day,
-*Mountain Crow*, launch to sadin park ruins, *Wood Pigeon*, S to *White
-Horse*, glide down to trees near stable, launch up to the colusseum and
-get all the missing elemental weapons: *Thunderspear*, *Frostspear*,
-*Frostblade*, *Flameblade*, *Flamespear*, *Silver Lynel* in the center
+warp to Mogg Latan, **Lord of the Mountain**, make it a sunny day,
+**Mountain Crow**, launch to sadin park ruins, **Wood Pigeon**, S to
+**White Horse**, glide down to trees near stable, launch up to the colusseum and
+get all the missing elemental weapons: **Thunderspear**, **Frostspear**,
+**Frostblade**, **Flamespear**, **Silver Lynel** in the center
 (watch out!)
 
-Windcleaver
+**Windcleaver**
+
+
+stable with **Donkey**, **Highland Sheep**, make night, take horse, NW to
+start another fun flame carry quest to akkala tech lab, make little
+detour N to monster base for a moblin with a **Spiked Moblin Spear** and a
+bokoblin with a **Dragonbone Boko Shield**, not enough shit yet for all
+the good weapons :(, back to horse, E to a fight with a Lynel,
+**Mighty Lynel Spear**, S to a Lynel with a **Mighty Lynel Sword**,
+**Mighty Lynel Shield**, W to skull lake, talk to Kilton
