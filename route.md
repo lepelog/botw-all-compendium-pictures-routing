@@ -52,15 +52,15 @@ Best Way to farm:
 
 ROUTE(wip):
 
-tree banch, flint by old man, axe, herb, arrows, boko shield, tower
+tree banch, axe, herb, arrows, boko shield, tower
 
 examine guardian wreck, magnesis
 
 dlc ruby, magnesis opal chest, warp SoR
 
-shrooms, eat, shieldjump, climb, cryonis, but get traveler‘s spear
+shrooms, eat, shieldjump, climb, cryonis
 
-shieldsurf and run and climb to warm doublet, examine stone thingy, down
+shieldsurf and run and climb to warm doublet, examine stone thingy for amber, down
 and more shieldsurf
 
 stasis get iron sledgehamer, traveler‘s bow, rocklaunch, treelaunch
@@ -69,10 +69,10 @@ bombs with damage physics reset
 
 run and treelaunch to ToT, paraglider, soldier‘s bow, warp to magnesis
 
-boxlaunch to horses, NE to stable, sell gems to beetle (300R),
-buy all arrows (150R), register horse (130R), E over bridges to kakariko
+boxlaunch to horses, NE to stable, sell gems to beetle (330R),
+buy all arrows (180R), register horse (160R), E over bridges to kakariko
 
-right, buy all arrows, left, buy 2 carrots,
+right, buy all arrows, left, buy 4 carrots,
 to impa, talk, activate shrine, go inside, take chests, exit
 
 E, tree carry E, run and glide to boulder, lauch near hateno, flame with
@@ -107,13 +107,14 @@ chest with **Giant Boomerang**, S to **Blue Hinox**, **Dragonbone Boko Spear**,
 **Rugged Rhino Beetle**, **Energetic Rhino Beetle** on the
 trees there, if the beetles troll you, they can spawn near the black one too
 
-Up Hill NW to the **Black Hinox**, kill Blue Boko next to **Thunderstorm Rod**,
-on hinox grab **Knight‘s Bow** and **Knight‘s Halberd**,
-grab 15 **Fleet-Lotus Seeds** around there kill Blue Bokos with Bows, make your way to
-farosh farming point
+Up Hill NW to the **Black Hinox**, kill Blue Boko next to **Thunderstorm Rod**, grab it,
+on hinox grab **Knight‘s Bow**, **Knight‘s Halberd**,
+grab 15 **Fleet-Lotus Seeds** around there kill Blue Bokos with Bows with
+Thunderstorm rod shockwave in water, grab their shock arrows,
+make your way to farosh farming point
 
 **Mighty Thistle** there, farm 24 horns of **Farosh** with the
-**Phrenic Bow** in a chest there, **Electric Keese** in the cave, launch to
+**Phrenic Bow** in the right chest there, **Electric Keese** in the cave, launch to
 lakeside Stable, make *SPEED*food(3 lotus, 1 carrot, 1 horn), make the clear day weather
 for the **Rainbow Sparrow** on the bridge. Take **Horse** across bridge,
 ride E over the bridge to Lurelin Village, **Palm Fruit**, **Boat Oar** near
@@ -121,17 +122,15 @@ boat, S to **Razorclaw Crab**, E **Hearty Blueshell Snail** on the beach,
 **Fishing Harpoon**, **Seagull** somewhere in the air, go to the seaside
 shop, **Mighty Porgy**, **Armored Porgy**, **Ironshell Crab**
 
-Warp to SoR, **Stone Talus** down left, treelaunch to colusseum, Bomb
-arrow **Treasure Chest** N of colusseum, drop down get Phantom Helm Chest,
-leave to the stable, **Armoranth** at E, get horse, NE across small
+Warp to SoR, **Stone Talus** down left, treelaunch to colusseum, drop inside get Phantom Helm **Treasure Chest**,
+leave to the stable, grab **Woodcutter's Axe**, **Armoranth** at E, get horse, NE across small
 bridge, kill 2 Blue Bokos with **Spiked Boko Club** and **Spiked Boko Shield**
 to save the travelers with a **Traveler‘s Sword**, ride NE to
 ruins with a chest with a **Serpentine Spear**, N to next Phantom armor
 piece, N to next phantom armor piece, grab **Big Hearty Radish** and N a
 bit to grab a **Endura Shroom**, ride north to activate Katah Chuki
 
-run towards castle in the West Passage, grab shock arrows under slab left,
-**Luminous Stone Deposit**, get
+run towards castle in the West Passage, **Luminous Stone Deposit**, get
 Diamond from Chest, Bomb wall, **Frost Pebblit**, box flying machine to
 the 5 ancient arrow chest on top of hyrule castle, get them, glide down
 to zeldas study bridge, E side with **Black Moblin**, shock it for
@@ -200,7 +199,7 @@ Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
 Stable with Beedle with **Warm Darner** and **Hearty Lizard**, **Pot Lid**, N
 grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
 
-Warp to Cryonis, chestlaunch to Gerudo, gale up, **Stone Talus (Luminous)**,
+Warp to Cryonis, chestlaunch to Gerudo, climb up, **Stone Talus (Luminous)**,
 treelaunch W to **Sand Seal**, to Gerudo Town, make sure it‘s
 daytime for **Sand Sparrow**, activate Shrine, talk to Guy, surf to Oasis,
 **Soup Ladle** left, gale to get Clothes, **Cold Darner** from Beedle, warp
@@ -208,15 +207,15 @@ back, enter town
 
 Shop with **Hearty Durian**, **Hydromelon**, **Voltfruit**, Shroom shop with
 **Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, Arrow shop with
-**Arrow**, **Fire Arrow**, **Ice Arrow**, **Bomb Arrow**, **Shock Arrow**, to
+**Arrow**, **Fire Arrow**, **Ice Arrow**, **Bomb Arrow**, buy all **Shock Arrow**, to
 Riju, Gerudo with **Gerudo Shield**, **Gerudo Scimirtar**, **Gerudo Spear**
 from the Gerudo Guards, **Golden Claymore** from the
 person next to Riju, left to **Patricia**, right talk to Gerudos,
 **Golden Bow** on wall, **Radiant Shield**,
 **Moonlight Scimitar** on the Gerudos here
 
-take Sand Seal to Yigas, **Warm Safflina**, **Electric Safflina** on the
-Way, activate Luminous Stone Shrine, dodge **Yiga Footsoldier**, grab
+take Sand Seal to Yigas, **Electric Safflina** on the
+Way, activate Luminous Stone Shrine, **Warm Safflina**, dodge **Yiga Footsoldier**, grab
 **Duplex Bow**, open Yiga hideout, **Vicious Sickle** on box right of
 entrance, **Yiga Blademaster**, grab **Mighty Bananas**, fly past yiga
 idiot, climb ladder, open yiga rupee room, more bananas, 100R, 2x 300R,
@@ -225,7 +224,7 @@ out and fight
 !!!!**MASTER KOHGA**!!!(if you forget this picture the run is dead),
 onecycle thanks to attack up and OP weapons
 
-equip warm doublet and great flameblade, to the snow, W then N up,
+equip warm doublet and great flameblade, to the snow, gale N up,
 **White Pigeon**, **Snow Octorok**, clib uphill to **Treasure Octorok**,
 paraglide W and gale to **Blue-Maned Lynel**, stunlock with phantom armor,
 Great Eagle Bow and Shock arrows (?), grab **Mighty Lynel Crusher** and
