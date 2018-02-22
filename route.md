@@ -39,7 +39,8 @@ Farming for ancient marterials:
  | bladesaw    | 15      | -        | -      | 5       | 2      | -            |
  | spear       | -       | 15       | 15     | 5       | 2      | -            |
  | bow         | -       | 10       | 10     | -       | -      | 1            |
- | TOTAL       | 15      | 45       | 35     | 15      | 6      | 2            |
+ | TOTAL       | 15      | 55       | 35     | 15      | 6      | 2            |
+
 
 In Addition 5.000 Rupees are needed.
 
@@ -123,7 +124,8 @@ boat, S to **Razorclaw Crab**, E **Hearty Blueshell Snail** on the beach,
 shop, **Mighty Porgy**, **Armored Porgy**, **Ironshell Crab**
 
 Warp to SoR, **Stone Talus** down left, treelaunch to colusseum, drop inside get Phantom Helm **Treasure Chest**,
-leave to the stable, grab **Woodcutter's Axe**, **Armoranth** at E, get horse, NE across small
+leave to the stable, grab **Woodcutter's Axe**, **Armoranth** at E,
+get **Hearty Lizard** from beedle, get horse, NE across small
 bridge, kill 2 Blue Bokos with **Spiked Boko Club** and **Spiked Boko Shield**
 to save the travelers with a **Traveler‘s Sword**, ride NE to
 ruins with a chest with a **Serpentine Spear**, N to next Phantom armor
@@ -196,7 +198,7 @@ spawn, do mapless Medoh as always, **Windblight Ganon** with full phantom
 Armor, Heart Container (why not?), Revalis Gale
 
 Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
-Stable with Beedle with **Warm Darner** and **Hearty Lizard**, **Pot Lid**, N
+Stable with Beedle with **Warm Darner**, **Pot Lid**, N
 grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
 
 Warp to Cryonis, chestlaunch to Gerudo, climb up, **Stone Talus (Luminous)**,
@@ -292,14 +294,12 @@ warp back to goron city (Shae Mo‘sah), talk to elder, tree strats up to
 the zoras and down to zoras domain, cutscnenes Resident sleeper, zora
 armor, go to the shop with **Sizzlefin Trout**, **Swift Violet**, activate
 shrine, grab fleet lotus seeds, **Silver Longsword** behind shrine, grab
-torch by cooking pot, run to entry of zora domain, zoras with **Zora Spear**
-and **Silverscale Spear**, glide down NE, **Silver Bow** between last
-and second to last pillar, swim up waterfall, run and treecarry to
+torch by cooking pot, swim up waterfall, run and treecarry to
 sidon, fight with Ruta, Vah Ruta, **Waterblight Ganon**
 
+zoras with **Zora Spear** and **Silverscale Spear**
 finish main quest, get **Lightscale Trident**, E to bridge, **Silver Shield**
-and **Zora Sword**, drop down and cryo near trident, magnesis the
-**Ceremonial Trident** up,
+and **Zora Sword**,
 
 warp back to Yunobo (Daqa Koh), triplefury moblins with **Drillshaft**,
 enter Yunobo escort,
@@ -343,7 +343,7 @@ sato koda giant ancient core, kamia omuna diamond? Kihiro moh
 thunderspear?
 
 general route idea (TODO):
-goron pillars, FM to Magmarok, akkala kilton, warp back to shrine, all of gerudo, refight,
+mipha pillar, ring and ancient, lynels, goron pillars, FM to Magmarok, akkala kilton, warp back to shrine, all of gerudo, refight,
 
 warp to Goron City (Shae Mo'sah), up to minecart, bomb over to other, flying machine to eldin pillars,
 flying machine to **Igneo Talus Titan**, stun with ice arrow, kill with Boulder Breaker,
@@ -354,8 +354,6 @@ N to Lynel with **Mighty Lynel Spear**, E to flame, short trip to monster camp f
 can carry the flame, throw it down with flame, arrow shooting, carrying to akkala ancient techlab,
 buy as much as you can (shield is nice), treelaunch S to stable with **Donkey**, **Highland Sheep**,
 get horse, ride S and hope for a yiga blademaster with a **Windcleaver**
-
-\[TODO: test if this can be done after akkala+miphas\]
 
 Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
 ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
@@ -410,7 +408,8 @@ up and NE to first **White-Maned Lynel**, with **Savage Lynel Bow**,
 **Savage Lynel Crusher**, SE for Lynel with **Savage Lynel Sword**,
 **Savage Lynel Shield**, NE for Lynel with **Savage Lynel Spear**
 
-warp to Medoh, attack up refight (2x fury), ruta (1x fury), rudania (0x fury)
+warp to Medoh, attack up refight (2x fury),
+ruta (1x fury) **Ceremonial Trident** **Silver Bow**, rudania (0x fury)
 
  divine trial, enter
 **Monk Maz Koshia** battle, but warp after photo to Katah Chuki, farm ancient
