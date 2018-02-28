@@ -93,8 +93,7 @@ pick up at least 3 Sunshrooms, W **Stamella Shroom**,
 
 **Hateno Cow** and **Hylian Retriever** on the farm, **Apple** on tree
 
-more W, **Hyrule Bass** and **Staminoka Bass** in lake, **Restless Cricket**
-SW in field, in little house E from frog pond **Farming Hoe**,
+**Restless Cricket** SW in field, in little house E from frog pond **Farming Hoe**,
 **Farmer‘s Pitchfork**, **Hot-Footed Frog**, W for **Wooden Mop**
 
 Heightlaunch from tree behind house to boko base,
@@ -186,7 +185,7 @@ TP to Katah Chuki, ride to Tabantha Stable, **Rainbow Pigeon** on the way,
 Treelaunch NNW to **Ore Deposit** and **Rare Ore Deposit**, kill **Stone Talus (Rare)**,
 climb up kill all 3 **Blue Lizalfos**, get their **Feathered Spear**,
 **Feathered Edge**, **Lizal Forked Boomerang**, treelaunch to rito
-at sunny day to catch an annoying **Red Sparrow** around there, **Hearty Salmon**, activate Shrine
+**Hearty Salmon**, activate Shrine
 
 talk to Elder, lady, treelaunch to Flight Range, activate Shrine, equip
 Warm Doublet and Great Flameblade to not die, **Swallow Bow**, Talk to
@@ -257,12 +256,12 @@ Impas house, chest with **Eightfold Longblade**, make sunny day, up again,
 
 more E, talk to „Traveler“ near Lanayru Road – West Gate, select bottom
 option(?), kill Yiga for **Deamon Carver**, climb hill E for **Golden Sparrow**,
-**Islander Hawk**, down NE to a pond with a **Mighty Carp**
+**Islander Hawk**, down NE to a pond with a **Mighty Carp**, **Staminoka Bass**, **Hyrule Bass**,
+**Mountain Doe**, **Mountain Buck** on the way
 
 warp to riverside stable, buy **Electric Darner** and **Tireless Frog**
 (kill it with one handed sword to keep it) from Beedle, make sunny good
-weather, ride over the Bridges to Wetland Stable, **Blue Sparrow** on
-second Bridge
+weather, ride over the Bridges to Wetland Stable
 
 buy **Smotherwing Butterfly** from Beedle, make night at stable, ride N,
 in the little place on the left side, **Mountain Buck**, **Mountain Doe**,
@@ -297,7 +296,7 @@ shrine, grab fleet lotus seeds, **Silver Longsword** behind shrine, grab
 torch by cooking pot, swim up waterfall, run and treecarry to
 sidon, fight with Ruta, Vah Ruta, **Waterblight Ganon**
 
-zoras with **Zora Spear** and **Silverscale Spear**
+zoras with **Zora Spear** and **Silverscale Spear**, turn around and sneak to **Blue Sparrow**
 finish main quest, get **Lightscale Trident**, E to bridge, **Silver Shield**
 and **Zora Sword**,
 
@@ -350,10 +349,11 @@ flying machine to **Igneo Talus Titan**, stun with ice arrow, kill with Boulder 
 activate shrine, make night, fly to kilton in skull lake, talk,
 fly E to Lynel in the woods with a **Mighty Lynel Sword**, **Mighty Lynel Shield**, grab bow,
 N to Lynel with **Mighty Lynel Spear**, E to flame, short trip to monster camp for
-**Spiked Moblin Spear**, **Dragonbone Boko Shield**, killl a moblin for something that
-can carry the flame, throw it down with flame, arrow shooting, carrying to akkala ancient techlab,
-buy as much as you can (shield is nice), treelaunch S to stable with **Donkey**, **Highland Sheep**,
-get horse, ride S and hope for a yiga blademaster with a **Windcleaver**
+**Dragonbone Boko Shield**, grab **Spiked Moblin Spear**, throw it down with flame,
+long throws and carrying to akkala ancient techlab,
+buy as much as you can (shield is nice), shieldsurf S, after decayed guardian cut some
+grass, idk, until a yiga Blademaster with a **Windcleaver** spawns, kill with sword, to
+stable, **Donkey**, **Highland Sheep**
 
 Warp to stasis, boulder launch to **Giant Horse**, get on another horse,
 ride S to the **Lynel**, kill with Revalis Bow and elemental arrows,
@@ -398,7 +398,8 @@ warp to rito (Akh Va‘quot) launch to revali pillars, treelaunch to
 stable, get horse, ride to canyon, campfire until morning half way, horn
 from **Dinraal**, do shrine
 
-warp to Sha Warvo, launchchain get **Cold Safflina** on the way, house of
+warp to Sha Warvo, launchchain, before the last launch make sunny weather, sneak up to
+**Red Sparrow**, launch to shieldhouse, get **Cold Safflina** on the way, house of
 shields: **Emblazoned Shield**, **Traveler‘s Shield**, **Fisherman‘s Shield**,
 **Kite Shield**, **Royal Shield**, **Knight‘s Shield**, **Soldier‘s Shield**,
 **Wooden Shield**, **Hunter‘s Shield**, shieldsurf back and through the
