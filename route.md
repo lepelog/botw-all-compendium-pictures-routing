@@ -211,9 +211,7 @@ daytime for **Sand Sparrow**, activate Shrine, talk to Guy, surf to Oasis,
 **Soup Ladle** left, gale to get Clothes, **Cold Darner** from Beedle, warp
 back, enter town
 
-Look for Gerudo with **Gerudo Scimitar**, Shop with **Hearty Durian**,
-**Hydromelon**, **Voltfruit**, Shroom shop with
-**Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, Arrow shop with
+Shop with **Hearty Durian**, **Hydromelon**, **Voltfruit**, Arrow shop with
 **Arrow**, **Fire Arrow**, **Ice Arrow**, **Bomb Arrow**, buy all **Shock Arrow**, to
 Riju, Gerudo with **Gerudo Shield**, **Gerudo Spear**
 from the Gerudo Guards, **Golden Claymore** from the
@@ -248,11 +246,11 @@ for **Dragonbone Boko Bat**, glide down E to group of Stalkoblins, **Boko Spear*
 and **Spiked Boko Spear**, N to pond, **Strengthened Lizal Bow**, go
 up the hill to NW for a stalizalfos with a **Reinforced Lizal Shield**
 
-warp back to Gerudo Town shrine, continiue quest.. shooting naboris and
-such
+warp back to Gerudo Town shrine, talk to Riju, cook hearty stuff and 2x 5x banana, Shroom shop with
+**Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, left to sand seals and 100R chest **Gerudo Scimitar**, buy Sandseal, continue with shooting naboris and such
 
 whatever naboris route, kill one guardian with a **Guardian Sword**, then
-destroy **Thunderblight Ganon**, heart container Urbosas Fury, finish Main
+destroy **Thunderblight Ganon** (photo during second phase), heart container Urbosas Fury, finish Main
 Quest for **Scimitar of the Seven** and **Daybreaker**
 
 Warp to Kakariko (Tahlo Negg), **Cucco**,
