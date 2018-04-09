@@ -280,7 +280,7 @@ to Stalkoblin with **Dragon Bone Boko Bow**, more E to
 **Electric Wizzrobe**, **Stone Pebblit**, hope that horsey is here,
 SE not over the bridge until swamp, grab 12 Lotus, kill lizalfos with **Boomerang**, go
 over lizal camp, avoid zora cutscene trigger, NE to camp with **Throwing Spear**,
-N to Foothill Stable, activate Mo'a Keet, **Double Axe**, buy
+N to Foothill Stable, activate Mo'a Keet, **Double Axe**, buy one
 Flame potion or cook Smotherwing Butterfly if it didn't fly away
 
 make day, go to the path up death mountain, watch out for **Hotfeather Pigeon**
@@ -323,7 +323,8 @@ with obliterator, **Lightning Rod**, **Boko Bat**, **Boko Club**,
 warp to Plateau tower, glide down to lizal camp, obliteratorshockwave the 3,
 **Silver Lizalfos** before it disappears, **Flameblade**, **Lizal Bow**, **Lizal Boomerang**,
 snipe south lizalfos,
-obliterate near lizalfos, snipe reamaining two,to shrine, do shrine
+obliterate near lizalfos, snipe reamaining two,to shrine, do shrine, there is a gold rupee in a chest
+on the left side of the room with the rotating spikes
 
 warp to Cryonis, warm doublet, to moblin camp, **Blizzrobe**, **Silver Moblin**,
 kill Blizzrobe with fire arrow, obliteratorshockwave Moblins, chest with ice arrows,
@@ -340,9 +341,6 @@ chest with giant ancient core around there, key, open door, shoot **Guardian Sco
 and the one to the right, kill left with Obliterator for **Ancient Battle Axe**
 up to **Guardian Scout III** with **Guardian Sword +** and **Guardian Shield**,
 careful that it doesn't fall down, GG
-
-notes: etsu korima, dark shrine 300 rupees?, kee dafunia frostblade?,
-sato koda giant ancient core, kamia omuna diamond?
 
 warp to Naboris, launch with rock to pillars, surf down to wooden box, launch to **Molduking**,
 bomb, tripleurbosa and shock arrow shot, go to shrine, do shrine
