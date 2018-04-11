@@ -29,7 +29,7 @@ Other notes:
 
 -   Pick up some monster Parts to exchange for 199 Mon for the
     Springloaded hammer by Kliton (lynel drops might be the best option)
--   „Sunshroom sensing“ is required, to get the confidential envelope,
+-   „Sunshroom sensing“ is required, to get the classified envelope,
     so we don't need to get the picture before, but get 3 sunshrooms
 -   Buy rare Insects from Beetle and photo them as they fly
     away(Butterflies, Darners, Frogs)
@@ -87,17 +87,18 @@ talk to purra, get camera, photo her, talk again (Note: this is
 necessary to activate akkala tech lab)
 
 grab **Torch**, outside **Hightail Lizard**, **Eightfold Blade**,
-**Shield of the Mind's Eye**, **Traveler's Bow**
+**Shield of the Mind's Eye**, **Traveler's Bow**, **Phrenic Bow**
 
-treelaunch NE into snow, **Naydra**, shieldsurf down to woods, **Rushroom**
-on mountain, in woods, **Hylian Shroom**, grab 2 **Hearty Radish**, **Silent Shroom**
-pick up at least 3 Sunshrooms, W **Stamella Shroom**,
+treelaunch NE into snow, **Naydra**, shieldsurf down to woods,
+**Hylian Shroom**, grab 2 **Hearty Radish**, **Silent Shroom**
+pick up at least 3 Sunshrooms (for "sunshroom sensing"), W **Stamella Shroom**,
 
 **Armored Carp** in lake, **Bright-Chested Duck**, **Korok Leaf** behind fence
 
 **Hateno Cow** and **Hylian Retriever** on the farm, **Apple** on tree
 
-**Restless Cricket** SW in field, in little house E from frog pond **Farming Hoe**,
+**Restless Cricket** SW in field, grab one and set it free for the photo,
+in little house E from frog pond **Farming Hoe**,
 **Farmer's Pitchfork**, **Hot-Footed Frog**, W for **Wooden Mop**
 
 Heightlaunch from tree behind house to boko base,
@@ -119,7 +120,7 @@ Thunderstorm rod shockwave in water, grab their shock arrows,
 make your way to farosh farming point
 
 **Mighty Thistle** there, farm 24 horns of **Farosh** with the
-**Phrenic Bow** in the right chest there, **Electric Keese** in the cave, launch to
+Phrenic Bow, **Electric Keese** in the cave, launch to
 lakeside Stable, make *SPEED*food(3 lotus, 1 carrot, 1 horn), make the clear day weather
 for the **Rainbow Sparrow**, **Bushy-Tailed Sqirrel** on the bridge. Take **Horse** across bridge,
 ride E over the bridge to Lurelin Village, **Palm Fruit**, **Boat Oar** near
@@ -127,9 +128,10 @@ boat, S to **Razorclaw Crab**, E **Hearty Blueshell Snail** on the beach,
 **Fishing Harpoon**, **Seagull** somewhere in the air if it is not raining, go to the seaside
 shop, **Mighty Porgy**, **Armored Porgy**, **Ironshell Crab**
 
-Warp to SoR, **Stone Talus** down left, treelaunch to colusseum, drop inside get Phantom Helm **Treasure Chest**,
+Warp to SoR, stay on top, **Stone Talus** down left, treelaunch to colusseum,
+drop inside get Phantom Helm **Treasure Chest**,
 leave to the stable, grab **Woodcutter's Axe**, **Armoranth** at E,
-get **Hearty Lizard** from beedle, get horse, NE across small
+get horse, NE across small
 bridge, kill 2 Blue Bokos with **Spiked Boko Club** and **Spiked Boko Shield**
 to save the travelers with a **Traveler's Sword**, ride NE to
 ruins with a chest with a **Serpentine Spear**, N to next Phantom armor
@@ -181,13 +183,14 @@ back to the lizalfos, left, right, shoot eye, left, shoot eye,
 launch to lost woods, **Stealthfin Trout** in lake surrounding LW, launch
 from W into LW, void out into it, **Tree Branch** on the way to **Master Sword**, go NE to
 **Forest Dweller's Shield** and **Forest Dweller's Spear**, then to test of wood
-**Forest Dweller's Bow**, **Forest Dweller's Sword** behind koroks
+**Forest Dweller's Bow**, **Forest Dweller's Sword** behind korok
 
 TP to Katah Chuki, ride to Tabantha Stable, **Rainbow Pigeon** on the way,
 **Wild Berry**, **Spicy Pepper**, **Soldier's Broadsword**, **Soldier's Bow**, **White Goat**, buy
 **Winterwing Butterfly**, **Summerwing Butterfly** and **Thunderwing Butterfly**, scam fairy guy
 
 Treelaunch NNW to get **Ore Deposit** and **Rare Ore Deposit**, **Stone Talus (Rare)**,
+pick up rock with **Hearty Lizard** next to it,
 climb up kill all 3 **Blue Lizalfos**, get their **Feathered Spear**,
 **Feathered Edge**, **Lizal Forked Boomerang**, treelaunch to rito
 **Hearty Salmon**, activate Shrine
@@ -202,14 +205,14 @@ spawn, do mapless Medoh as always, **Windblight Ganon** with full phantom
 Armor, Heart Container (why not?), Revalis Gale
 
 Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
-Stable with Beedle with **Warm Darner**, **Sunset Firefly**, **Pot Lid**, N
-grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
+Stable with Beedle buy **Warm Darner**, **Sunset Firefly**, **Pot Lid** near cooking pot,
+N grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
 
 Warp to Cryonis, chestlaunch to Gerudo, climb up, **Stone Talus (Luminous)**,
 treelaunch W to **Sand Seal**, to Gerudo Town, make sure it's
 daytime for **Sand Sparrow**, activate Shrine, talk to Guy, surf to Oasis,
 **Soup Ladle** left, gale to get Clothes, **Cold Darner** from Beedle, warp
-back, enter town
+back, talk to snow boots person to get them, enter town
 
 Shop with **Hearty Durian**, **Hydromelon**, **Voltfruit**, Arrow shop with
 **Arrow**, **Fire Arrow**, **Ice Arrow**, **Bomb Arrow**, buy all **Shock Arrow**, to
@@ -229,7 +232,7 @@ out and fight
 !!!!**MASTER KOHGA**!!!(if you forget this picture the run is dead),
 onecycle thanks to attack up and OP weapons
 
-equip warm doublet and great flameblade, to the snow, gale N up,
+equip warm doublet, snow boots and great flameblade, to the snow, gale N up,
 **White Pigeon**, **Snow Octorok**, clib uphill to **Treasure Octorok**,
 paraglide W and gale to **Blue-Maned Lynel**, stunlock with phantom armor,
 Great Eagle Bow and Shock arrows , grab **Mighty Lynel Crusher** and
@@ -247,15 +250,16 @@ and **Spiked Boko Spear**, N to pond, **Strengthened Lizal Bow**, go
 up the hill to NW for a stalizalfos with a **Reinforced Lizal Shield**
 
 warp back to Gerudo Town shrine, talk to Riju, cook hearty stuff and 2x 5x banana, Shroom shop with
-**Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, left to sand seals and 100R chest **Gerudo Scimitar**, buy Sandseal, continue with shooting naboris and such
+**Chillshroom**, **Zapshroom**, **Razorshroom**, **Ironshroom**, left to sand seals and 100R chest **Gerudo Scimitar**,
+buy Sandseal, continue with shooting naboris and such
 
-whatever naboris route, kill one guardian with a **Guardian Sword**, then
+whatever naboris route, kill guardian outside the main room for **Guardian Sword**, then
 destroy **Thunderblight Ganon** (photo during second phase), heart container Urbosas Fury, finish Main
 Quest for **Scimitar of the Seven** and **Daybreaker**
 
 Warp to Kakariko (Tahlo Negg), **Cucco**,
 **Sneaky River Snail**, **Fortified Pumpkin**, **Swift Carrot**, **Sanke Carp** behind
-Impas house, chest with **Eightfold Longblade**, make sunny day, up again,
+Impas house, chest with **Eightfold Longblade**, **Rushroom**, make sunny day, up again,
 **Blupee**, grab **Fairy**, **Blue Nightshade**, **Silent Princess**, grab **Endura Carrot**
 
 more E, talk to „Traveler“ near Lanayru Road – West Gate, select top
@@ -288,7 +292,7 @@ there, e kill **Guardian Stalker** with
 ancient arrow, **Fire Keese** in Cave, follow the flying machine hater
 (aka ancient AD) route to Shrine near Eldin Bridge, **Igneo Pebblit** on
 the way, **Igneo Talus** after last gale, glide over to Goron City, get
-Flamebreaker Shorts, **Fireproof Lizard** on a stone on the way to Goron
+Flamebreaker leg and chest piece, **Fireproof Lizard** on a stone on the way to Goron
 elder, activate Shrine, **Rock Octorok**, go and free Yunobo,
 **Cobble Crusher** inside, ice arrows
 
@@ -345,7 +349,7 @@ careful that it doesn't fall down, GG
 warp to Naboris, launch with rock to pillars, surf down to wooden box, launch to **Molduking**,
 bomb, tripleurbosa and shock arrow shot, go to shrine, do shrine
 
-warp to Vah Ruta, speed up, rock launch to pillars, listen
+warp to Vah Ruta, rock launch to pillars, listen
 
 warp to zoras domain (Ne'ez Yohma), drop down left, up waterfall, follow
 path follow rings to shrine, grab electric arrows there, do shrine, beat
@@ -391,7 +395,7 @@ warp to last rudania shrine you activated earlier with flying machine, do it
 
 warp to naboris eat attack up, refight
 
-warp to rito (Akh Va'quot) launch to revali pillars, treelaunch to
+warp to rito (Akh Va'quot) launch to revali pillars, speed up, treelaunch to
 stable, get horse, ride to canyon, campfire until morning half way,
 shoot **Dinraal**, do shrine
 
@@ -402,11 +406,11 @@ shields: **Emblazoned Shield**, **Traveler's Shield**, **Fisherman's Shield**,
 **Wooden Shield**, **Hunter's Shield**, shieldsurf back and through the
 rings to shrine, do shrine
 
-up and NE to first **White-Maned Lynel**, with **Savage Lynel Bow**,
-**Savage Lynel Crusher**, SE for Lynel with **Savage Lynel Sword**,
-**Savage Lynel Shield**, NE for Lynel with **Savage Lynel Spear**
+up and NE to first **White-Maned Lynel**, with **Savage Lynel Crusher**,
+SE for Lynel with **Savage Lynel Sword**, **Savage Lynel Shield**,
+NE for Lynel with **Savage Lynel Spear**
 
-warp to Medoh, attack up refight (2x fury),
+warp to Medoh, attack up refight (use 2x fury),
 ruta (1x fury) **Ceremonial Trident** **Silver Bow**, rudania (0x fury)
 
 divine trial, enter
@@ -414,7 +418,7 @@ divine trial, enter
 gale up to battle **Calamity Ganon**, selfie mode for the **Bow of Light**
 and **Dark Beast Ganon**, skip credits, drop down, farm ancient
 stuff from **Guardian Stalker** and Guardian Skywatcher,
-near HC Town, **Guardian Turret** all over Hyrule Castle
+near HC Town, Guardian Turret all over Hyrule Castle
 
 warp to Akkala Tech lab, after (hopefully) enough farming get
 **Ancient Short Sword**, **Ancient Bladesaw**, **Ancient Spear**, **Ancient Bow**
@@ -433,3 +437,6 @@ warp to Mogg Latan, **Lord of the Mountain**, make it a sunny day,
 get all the missing elemental weapons: **Thunderspear**, **Frostspear**,
 **Frostblade**, **Flamespear**, **Silver Lynel** in the center
 (watch out!)
+
+Note: the silver lynel and the elemental weapons spawn only after you have completed all 4 divine beasts but because LotM sucks,
+take the timeloss of an extra warp (then to SoR and launch to colisseum)
