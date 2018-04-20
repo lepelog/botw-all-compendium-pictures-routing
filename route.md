@@ -202,7 +202,8 @@ Teba, 5 Targets, get **Falcon Bow** in Chest, Attack on Vah Medoh
 Get ancient Core in chest before the first terminal, don't shoot the eye
 immediately, let **Cursed Bokoblin**, **Cursed Moblin**, **Cursed Lizalfos**
 spawn, do mapless Medoh as always, **Windblight Ganon** with full phantom
-Armor, Heart Container (why not?), Revalis Gale
+Armor, Royal Guard's Bow and 3 Bomb arrow headshots each phase,
+Heart Container (why not?), Revalis Gale
 
 Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
 Stable with Beedle buy **Warm Darner**, **Sunset Firefly**, **Pot Lid** near cooking pot,
@@ -327,12 +328,13 @@ with obliterator, **Lightning Rod**, **Boko Bat**, **Boko Club**,
 warp to Plateau tower, glide down to lizal camp, obliteratorshockwave the 3,
 **Silver Lizalfos** before it disappears, **Flameblade**, **Lizal Bow**, **Lizal Boomerang**,
 snipe south lizalfos,
-obliterate near lizalfos, snipe reamaining two,to shrine, do shrine, there is a gold rupee in a chest
+obliterate near lizalfos, snipe reamaining two, to shrine, do shrine, there is a gold rupee in a chest
 on the left side of the room with the rotating spikes
 
 warp to Cryonis, warm doublet, to moblin camp, **Blizzrobe**, **Silver Moblin**,
 kill Blizzrobe with fire arrow, obliteratorshockwave Moblins, chest with ice arrows,
-**Traveler's Spear**, **Blizzard Rod**, kill **Ice-Breath Lizalfos** with fire arrows, kill Moblin with Obliterator, **Ice Chuchu**, surf to shrine, do shrine (and don't die pls)
+**Traveler's Spear**, **Blizzard Rod**, kill **Ice-Breath Lizalfos** with fire arrows, kill Moblin with Obliterator,
+**Ice Chuchu**, surf to shrine, do shrine (and don't die pls)
 
 surf down to next camp, kill fire breath lizalfos with ice arrows, freeze moblin,
 shoot lizalfos, shoot boko riders, shoot bokos with Korok leafs, grab 10 arrow chest,
@@ -371,7 +373,7 @@ fly E to Lynel in the woods with a **Mighty Lynel Sword**, **Mighty Lynel Shield
 N to Lynel with **Mighty Lynel Spear**, E to flame, short trip to monster camp for
 **Dragonbone Boko Shield**, grab **Spiked Moblin Spear**, throw it down with flame,
 long throws and carrying to akkala ancient techlab,
-buy as much as you can (shield is nice), shieldsurf S to
+buy as much as you can (bow, bladesaw and shield are nice), shieldsurf S to
 stable, **Donkey**, **Highland Sheep**
 
 warp to gerudo town (Daqo Chisay) make night, equip gerudo clothes, buy
