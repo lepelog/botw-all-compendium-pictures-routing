@@ -57,7 +57,7 @@ Best Way to farm:
 
 ROUTE(wip):
 
-tree banch, axe, herb, arrows, boko shield, tower
+axe, herb, arrows, boko bow, boko shield, tower
 
 examine guardian wreck, magnesis
 
@@ -68,7 +68,7 @@ shrooms, eat, shieldjump, climb, cryonis
 shieldsurf and run and climb to warm doublet, examine stone thingy for amber, down
 and more shieldsurf
 
-stasis get iron sledgehamer, traveler's bow, rocklaunch, treelaunch
+stasis get iron sledgehamer, rocklaunch, treelaunch
 
 bombs with damage physics reset
 
@@ -81,13 +81,13 @@ right, buy all arrows, left, buy 4 carrots,
 to shrine, grab chests, exit, tree carry up to phrenic bow chest, down to impa, up to shrine again
 
 E, tree carry E, run and glide to boulder, lauch near hateno, flame with
-trreebranch to the lab
+wooden mop to the lab
 
 talk to purra, get camera, photo her, talk again (Note: this is
 necessary to activate akkala tech lab)
 
 grab **Torch**, outside **Hightail Lizard**, **Eightfold Blade**,
-**Shield of the Mind's Eye**, **Traveler's Bow**, **Phrenic Bow**
+**Shield of the Mind's Eye**, **Phrenic Bow**, **Wooden Mop**
 
 treelaunch NE into snow, **Naydra**, shieldsurf down to woods,
 **Hylian Shroom**, grab 2 **Hearty Radish**, **Silent Shroom**
@@ -99,7 +99,7 @@ pick up at least 3 Sunshrooms (for "sunshroom sensing"), W **Stamella Shroom**,
 
 **Restless Cricket** SW in field, grab one and set it free for the photo,
 in little house E from frog pond **Farming Hoe**,
-**Farmer's Pitchfork**, **Hot-Footed Frog**, W for **Wooden Mop**
+**Farmer's Pitchfork**, **Hot-Footed Frog**
 
 Heightlaunch from tree behind house to boko base,
 follow path S, W, S to **Moblin**, E boko with **Moblin Spear**, **Chuchu**, E,
@@ -196,8 +196,8 @@ climb up kill all 3 **Blue Lizalfos**, get their **Feathered Spear**,
 **Hearty Salmon**, activate Shrine
 
 talk to Elder, lady, treelaunch to Flight Range, activate Shrine, equip
-Warm Doublet and Great Flameblade to not die, **Swallow Bow**, Talk to
-Teba, 5 Targets, get **Falcon Bow** in Chest, Attack on Vah Medoh
+Warm Doublet and Great Flameblade to not die, **Swallow Bow**, campfire to morning,
+Talk to Teba, 5 Targets, get **Falcon Bow** in Chest, Attack on Vah Medoh
 
 Get ancient Core in chest before the first terminal, don't shoot the eye
 immediately, let **Cursed Bokoblin**, **Cursed Moblin**, **Cursed Lizalfos**
@@ -205,6 +205,7 @@ spawn, do mapless Medoh as always, **Windblight Ganon** with full phantom
 Armor, Royal Guard's Bow and 3 Bomb arrow headshots each phase,
 Heart Container (why not?), Revalis Gale
 
+Try to catch a **Cold darner**, compendium entry fails a lot here for some reason,
 Finish Vah Medoh Main Quest, get **Great Eagle Bow**, treelaunch E to
 Stable with Beedle buy **Warm Darner**, **Sunset Firefly**, **Pot Lid** near cooking pot,
 N grab radish, to Lake with **Chillfin Trout** and **Voltfin Trout**
@@ -320,7 +321,7 @@ finish main quest for **Boulder Breaker** (keep this for the DLC talus)
 
 warp to SoR for champions ballad, **One-Hit Obliterator**, glide down,
 shoot arrow to keese, kill boko with obliterator, kill 3 blue bokos down with arrows,
-climb up to a **Silver Bokoblin**, kill with Obliterator, shock arrows,
+climb up to a **Silver Bokoblin**, kill with Obliterator, shock arrows, **Traveler's Bow**
 make sure Obliterator is charged jump down, arrow kill 2 bokos, kill **Black Bokoblin**
 with obliterator, **Lightning Rod**, **Boko Bat**, **Boko Club**,
 **Boko Shield**, chest with bomb arrows, to shrine, do shrine
